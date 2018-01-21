@@ -1,0 +1,5 @@
+/home/mohammad/alaa/fresh-master/src/main/java/com/madfooat/billinquiry/domain/Bill.java
+/home/mohammad/alaa/fresh-master/src/main/java/com/madfooat/billinquiry/ParseBillInquiryResponse.java
+/home/mohammad/alaa/fresh-master/src/main/java/com/madfooat/billinquiry/JSONParseBillInquiryResponse.java
+/home/mohammad/alaa/fresh-master/src/main/java/com/madfooat/billinquiry/XMLParseBillInquiryResponse.java
+/home/mohammad/alaa/fresh-master/src/main/java/com/madfooat/billinquiry/exceptions/InvalidBillInquiryResponse.java
